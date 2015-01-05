@@ -1,0 +1,8 @@
+# Set them to fit your local environment
+CLASSPATH:=$(CLASSPATH):/opt/vertx/sys-mods/io.vertx\~lang-clojure\~1.0.4/___runtime___/clojure-api-1.0.4.jar
+CLASSPATH:=$(CLASSPATH):/opt/vertx/lib/vertx-core-2.1.5.jar
+CLASSPATH:=$(CLASSPATH):/opt/vertx/lib/vertx-platform-2.1.5.jar
+CLASSPATH:=$(CLASSPATH):/opt/vertx/lib/netty-all-4.0.21.Final.jar
+CLASSPATH:=$(CLASSPATH):/usr/share/clojure/clojure.jar
+PROGUARD:=/opt/proguard/lib/proguard.jar
+RT:=/usr/lib/jvm/java-default-runtime/jre/lib/rt.jar

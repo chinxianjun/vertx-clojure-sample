@@ -1,0 +1,2145 @@
+smallspanner.vertx.clojure.sample.core -> smallspanner.vertx.clojure.sample.core:
+    clojure.lang.Var stop__var -> a
+    clojure.lang.Var getVertx__var -> b
+    clojure.lang.Var setContainer__var -> c
+    clojure.lang.Var toString__var -> d
+    clojure.lang.Var start__var -> e
+    clojure.lang.Var getContainer__var -> f
+    clojure.lang.Var setVertx__var -> g
+    clojure.lang.Var clone__var -> h
+    clojure.lang.Var hashCode__var -> i
+    clojure.lang.Var equals__var -> j
+    clojure.lang.Var start_Future__var -> k
+    clojure.lang.Var start_void__var -> l
+    int hashCode() -> hashCode
+    java.lang.String toString() -> toString
+    void setContainer(org.vertx.java.platform.Container) -> setContainer
+    org.vertx.java.platform.Container getContainer() -> getContainer
+    void setVertx(org.vertx.java.core.Vertx) -> setVertx
+    void start(org.vertx.java.core.Future) -> start
+    void start() -> start
+    org.vertx.java.core.Vertx getVertx() -> getVertx
+    java.lang.Object clone() -> clone
+    boolean equals(java.lang.Object) -> equals
+    void stop() -> stop
+smallspanner.vertx.clojure.sample.core$_start_void -> smallspanner.vertx.clojure.sample.a:
+    clojure.lang.Var const__0 -> a
+    clojure.lang.Var const__1 -> b
+    clojure.lang.Var const__2 -> c
+    clojure.lang.Var const__3 -> d
+    clojure.lang.Var const__4 -> e
+    clojure.lang.Var const__5 -> f
+    java.lang.Object const__6 -> g
+    java.lang.Object invoke(java.lang.Object) -> invoke
+smallspanner.vertx.clojure.sample.core$fn__490 -> smallspanner.vertx.clojure.sample.b:
+    clojure.lang.Var const__0 -> a
+    clojure.lang.Var const__1 -> b
+    clojure.lang.Var const__2 -> c
+    clojure.lang.Var const__3 -> d
+    clojure.lang.AFn const__4 -> e
+    java.lang.Object invoke() -> invoke
+smallspanner.vertx.clojure.sample.core$loading__4958__auto__ -> smallspanner.vertx.clojure.sample.c:
+    clojure.lang.Var const__0 -> a
+    clojure.lang.AFn const__1 -> b
+    clojure.lang.Var const__2 -> c
+    clojure.lang.AFn const__3 -> d
+    clojure.lang.AFn const__4 -> e
+    clojure.lang.AFn const__5 -> f
+    clojure.lang.AFn const__6 -> g
+    java.lang.Object invoke() -> invoke
+smallspanner.vertx.clojure.sample.core__init -> smallspanner.vertx.clojure.sample.core__init:
+    clojure.lang.Var const__0 -> a
+    clojure.lang.AFn const__1 -> b
+    clojure.lang.AFn const__2 -> c
+    clojure.lang.Var const__3 -> d
+    clojure.lang.AFn const__12 -> e
+    void load() -> load
+smallspanner.vertx.clojure.sample.handler.all$fn__487 -> smallspanner.vertx.clojure.sample.handler.a:
+    clojure.lang.Var const__0 -> a
+    clojure.lang.Var const__1 -> b
+    clojure.lang.Var const__2 -> c
+    clojure.lang.Var const__3 -> d
+    clojure.lang.AFn const__4 -> e
+    java.lang.Object invoke() -> invoke
+smallspanner.vertx.clojure.sample.handler.all$handle -> smallspanner.vertx.clojure.sample.handler.b:
+    clojure.lang.Var const__0 -> a
+    clojure.lang.Var const__1 -> b
+    clojure.lang.AFn const__4 -> c
+    java.lang.Object invoke(java.lang.Object) -> invoke
+smallspanner.vertx.clojure.sample.handler.all$loading__4958__auto__ -> smallspanner.vertx.clojure.sample.handler.c:
+    clojure.lang.Var const__0 -> a
+    clojure.lang.AFn const__1 -> b
+    clojure.lang.Var const__2 -> c
+    clojure.lang.AFn const__3 -> d
+    java.lang.Object invoke() -> invoke
+smallspanner.vertx.clojure.sample.handler.all__init -> smallspanner.vertx.clojure.sample.handler.all__init:
+    clojure.lang.Var const__0 -> a
+    clojure.lang.AFn const__1 -> b
+    clojure.lang.AFn const__2 -> c
+    clojure.lang.Var const__3 -> d
+    clojure.lang.AFn const__12 -> e
+    void load() -> load
+vertx.buffer$append_BANG_ -> vertx.buffer$append_BANG_:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    java.lang.Object const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    java.lang.Object const__4 -> const__4
+    java.lang.Object const__5 -> const__5
+    clojure.lang.Var const__6 -> const__6
+    java.lang.Object const__7 -> const__7
+    java.lang.Object const__8 -> const__8
+    java.lang.Object const__9 -> const__9
+    java.lang.Object const__10 -> const__10
+    java.lang.Object const__11 -> const__11
+    clojure.lang.Var const__12 -> const__12
+    java.lang.Object const__13 -> const__13
+    java.lang.Object const__14 -> const__14
+    clojure.lang.Var const__15 -> const__15
+    clojure.lang.Var const__16 -> const__16
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.buffer$as_buffer -> vertx.buffer$as_buffer:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.buffer$buffer -> vertx.buffer$buffer:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object) -> invoke
+    java.lang.Object invoke() -> invoke
+vertx.buffer$def_get -> vertx.buffer$def_get:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.AFn const__5 -> const__5
+    clojure.lang.Keyword const__6 -> const__6
+    clojure.lang.AFn const__7 -> const__7
+    clojure.lang.AFn const__8 -> const__8
+    clojure.lang.Var const__9 -> const__9
+    clojure.lang.Var const__10 -> const__10
+    clojure.lang.Var const__11 -> const__11
+    clojure.lang.AFn const__12 -> const__12
+    clojure.lang.Var const__13 -> const__13
+    clojure.lang.Var const__14 -> const__14
+    clojure.lang.AFn const__15 -> const__15
+    clojure.lang.AFn const__16 -> const__16
+    clojure.lang.AFn const__17 -> const__17
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.buffer$delimited_parser -> vertx.buffer$delimited_parser:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.buffer$fixed_parser -> vertx.buffer$fixed_parser:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.buffer$fn__211 -> vertx.buffer$fn__211:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.AFn const__4 -> const__4
+    java.lang.Object invoke() -> invoke
+vertx.buffer$get_buffer -> vertx.buffer$get_buffer:
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.buffer$get_byte -> vertx.buffer$get_byte:
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.buffer$get_bytes -> vertx.buffer$get_bytes:
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.buffer$get_double -> vertx.buffer$get_double:
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.buffer$get_float -> vertx.buffer$get_float:
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.buffer$get_int -> vertx.buffer$get_int:
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.buffer$get_long -> vertx.buffer$get_long:
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.buffer$get_short -> vertx.buffer$get_short:
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.buffer$get_string -> vertx.buffer$get_string:
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.buffer$loading__4958__auto__ -> vertx.buffer$loading__4958__auto__:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.AFn const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.AFn const__3 -> const__3
+    clojure.lang.AFn const__4 -> const__4
+    clojure.lang.AFn const__5 -> const__5
+    java.lang.Object invoke() -> invoke
+vertx.buffer$parse_buffer -> vertx.buffer$parse_buffer:
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.buffer$parse_delimited -> vertx.buffer$parse_delimited:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.buffer$parse_fixed -> vertx.buffer$parse_fixed:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.buffer$set_BANG_ -> vertx.buffer$set_BANG_:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    java.lang.Object const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    java.lang.Object const__4 -> const__4
+    java.lang.Object const__5 -> const__5
+    java.lang.Object const__6 -> const__6
+    clojure.lang.Var const__7 -> const__7
+    java.lang.Object const__8 -> const__8
+    java.lang.Object const__9 -> const__9
+    java.lang.Object const__10 -> const__10
+    java.lang.Object const__11 -> const__11
+    java.lang.Object const__12 -> const__12
+    clojure.lang.Var const__13 -> const__13
+    java.lang.Object const__14 -> const__14
+    java.lang.Object const__15 -> const__15
+    clojure.lang.Var const__16 -> const__16
+    clojure.lang.Var const__17 -> const__17
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.buffer__init -> vertx.buffer__init:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.AFn const__1 -> const__1
+    clojure.lang.AFn const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Keyword const__4 -> const__4
+    clojure.lang.Keyword const__5 -> const__5
+    java.lang.Object const__6 -> const__6
+    clojure.lang.Keyword const__7 -> const__7
+    java.lang.Object const__8 -> const__8
+    clojure.lang.Keyword const__9 -> const__9
+    java.lang.Object const__10 -> const__10
+    clojure.lang.Keyword const__11 -> const__11
+    clojure.lang.AFn const__12 -> const__12
+    clojure.lang.Var const__13 -> const__13
+    java.lang.Object const__14 -> const__14
+    java.lang.Object const__15 -> const__15
+    clojure.lang.AFn const__16 -> const__16
+    clojure.lang.Var const__17 -> const__17
+    java.lang.Object const__18 -> const__18
+    java.lang.Object const__19 -> const__19
+    clojure.lang.AFn const__20 -> const__20
+    clojure.lang.Var const__21 -> const__21
+    java.lang.Object const__22 -> const__22
+    java.lang.Object const__23 -> const__23
+    clojure.lang.Keyword const__24 -> const__24
+    java.lang.Object const__25 -> const__25
+    clojure.lang.AFn const__26 -> const__26
+    clojure.lang.Var const__27 -> const__27
+    java.lang.Object const__28 -> const__28
+    java.lang.Object const__29 -> const__29
+    clojure.lang.AFn const__30 -> const__30
+    clojure.lang.Var const__31 -> const__31
+    java.lang.Object const__32 -> const__32
+    java.lang.Object const__33 -> const__33
+    clojure.lang.Keyword const__34 -> const__34
+    clojure.lang.AFn const__35 -> const__35
+    clojure.lang.Var const__36 -> const__36
+    java.lang.Object const__37 -> const__37
+    java.lang.Object const__38 -> const__38
+    clojure.lang.AFn const__39 -> const__39
+    clojure.lang.Var const__40 -> const__40
+    java.lang.Object const__41 -> const__41
+    java.lang.Object const__42 -> const__42
+    clojure.lang.AFn const__43 -> const__43
+    clojure.lang.Var const__44 -> const__44
+    java.lang.Object const__45 -> const__45
+    java.lang.Object const__46 -> const__46
+    clojure.lang.AFn const__47 -> const__47
+    clojure.lang.Var const__48 -> const__48
+    java.lang.Object const__49 -> const__49
+    java.lang.Object const__50 -> const__50
+    clojure.lang.AFn const__51 -> const__51
+    clojure.lang.Var const__52 -> const__52
+    java.lang.Object const__53 -> const__53
+    java.lang.Object const__54 -> const__54
+    clojure.lang.AFn const__55 -> const__55
+    clojure.lang.Var const__56 -> const__56
+    java.lang.Object const__57 -> const__57
+    java.lang.Object const__58 -> const__58
+    clojure.lang.AFn const__59 -> const__59
+    clojure.lang.Var const__60 -> const__60
+    java.lang.Object const__61 -> const__61
+    java.lang.Object const__62 -> const__62
+    clojure.lang.AFn const__63 -> const__63
+    clojure.lang.Var const__64 -> const__64
+    java.lang.Object const__65 -> const__65
+    java.lang.Object const__66 -> const__66
+    clojure.lang.AFn const__67 -> const__67
+    clojure.lang.Var const__68 -> const__68
+    java.lang.Object const__69 -> const__69
+    java.lang.Object const__70 -> const__70
+    java.lang.Object const__71 -> const__71
+    clojure.lang.AFn const__72 -> const__72
+    clojure.lang.Var const__73 -> const__73
+    java.lang.Object const__74 -> const__74
+    java.lang.Object const__75 -> const__75
+    clojure.lang.AFn const__76 -> const__76
+    clojure.lang.Var const__77 -> const__77
+    java.lang.Object const__78 -> const__78
+    java.lang.Object const__79 -> const__79
+    clojure.lang.AFn const__80 -> const__80
+    clojure.lang.Var const__81 -> const__81
+    java.lang.Object const__82 -> const__82
+    java.lang.Object const__83 -> const__83
+    clojure.lang.AFn const__84 -> const__84
+    clojure.lang.Var const__85 -> const__85
+    java.lang.Object const__86 -> const__86
+    java.lang.Object const__87 -> const__87
+    clojure.lang.AFn const__88 -> const__88
+    void load() -> load
+    void __init0() -> __init0
+vertx.core$_bind_container_roots -> vertx.core$_bind_container_roots:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.core$_start_verticle -> vertx.core$_start_verticle:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.core$_stop_verticle -> vertx.core$_stop_verticle:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    java.lang.Object const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    clojure.lang.Var const__6 -> const__6
+    clojure.lang.Var const__7 -> const__7
+    clojure.lang.Var const__8 -> const__8
+    clojure.lang.Var const__9 -> const__9
+    clojure.lang.Var const__10 -> const__10
+    clojure.lang.Var const__11 -> const__11
+    clojure.lang.Var const__12 -> const__12
+    clojure.lang.Var const__13 -> const__13
+    clojure.lang.Var const__14 -> const__14
+    clojure.lang.Var const__15 -> const__15
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.core$as_async_result_handler -> vertx.core$as_async_result_handler:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.core$as_async_result_handler$fn__166 -> vertx.core$as_async_result_handler$fn__166:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object f -> f
+    java.lang.Object include_result_or_result_fn -> include_result_or_result_fn
+    java.lang.Class __cached_class__0 -> __cached_class__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.core$as_handler -> vertx.core$as_handler:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    clojure.lang.Keyword const__6 -> const__6
+    java.lang.Object const__7 -> const__7
+    clojure.lang.Keyword const__8 -> const__8
+    java.lang.Object const__9 -> const__9
+    clojure.lang.AFn const__10 -> const__10
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.core$as_handler$fn__156 -> vertx.core$as_handler$fn__156:
+    java.lang.Object result_fn -> result_fn
+    java.lang.Object f -> f
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.core$as_handler$fn__158 -> vertx.core$as_handler$fn__158:
+    java.lang.Object result_fn -> result_fn
+    java.lang.Object f -> f
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.core$as_handler$reify__160 -> vertx.core$as_handler$reify__160:
+    clojure.lang.IPersistentMap __meta -> __meta
+    java.lang.Object boundf -> boundf
+    clojure.lang.IPersistentMap meta() -> meta
+    clojure.lang.IObj withMeta(clojure.lang.IPersistentMap) -> withMeta
+    void handle(java.lang.Object) -> handle
+vertx.core$as_void_handler -> vertx.core$as_void_handler:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.core$as_void_handler$fn__170 -> vertx.core$as_void_handler$fn__170:
+    java.lang.Object f -> f
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.core$cancel_timer -> vertx.core$cancel_timer:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.core$config -> vertx.core$config:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Class __cached_class__0 -> __cached_class__0
+    java.lang.Object invoke() -> invoke
+vertx.core$current_context -> vertx.core$current_context:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke() -> invoke
+vertx.core$defhandler -> vertx.core$defhandler:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.AFn const__3 -> const__3
+    clojure.lang.AFn const__4 -> const__4
+    java.lang.Object doInvoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object) -> doInvoke
+    int getRequiredArity() -> getRequiredArity
+vertx.core$deploy_module -> vertx.core$deploy_module:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Keyword const__3 -> const__3
+    clojure.lang.Keyword const__4 -> const__4
+    java.lang.Object const__5 -> const__5
+    clojure.lang.Keyword const__6 -> const__6
+    clojure.lang.Var const__7 -> const__7
+    clojure.lang.Var const__8 -> const__8
+    clojure.lang.Var const__9 -> const__9
+    java.lang.Class __cached_class__0 -> __cached_class__0
+    java.lang.Object doInvoke(java.lang.Object,java.lang.Object) -> doInvoke
+    int getRequiredArity() -> getRequiredArity
+vertx.core$deploy_verticle -> vertx.core$deploy_verticle:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Keyword const__3 -> const__3
+    clojure.lang.Keyword const__4 -> const__4
+    java.lang.Object const__5 -> const__5
+    clojure.lang.Keyword const__6 -> const__6
+    clojure.lang.Var const__7 -> const__7
+    clojure.lang.Var const__8 -> const__8
+    clojure.lang.Var const__9 -> const__9
+    java.lang.Class __cached_class__0 -> __cached_class__0
+    java.lang.Object doInvoke(java.lang.Object,java.lang.Object) -> doInvoke
+    int getRequiredArity() -> getRequiredArity
+vertx.core$deploy_worker_verticle -> vertx.core$deploy_worker_verticle:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Keyword const__3 -> const__3
+    clojure.lang.Keyword const__4 -> const__4
+    clojure.lang.Keyword const__5 -> const__5
+    java.lang.Object const__6 -> const__6
+    clojure.lang.Keyword const__7 -> const__7
+    clojure.lang.Var const__8 -> const__8
+    clojure.lang.Var const__9 -> const__9
+    clojure.lang.Var const__10 -> const__10
+    clojure.lang.Var const__11 -> const__11
+    java.lang.Class __cached_class__0 -> __cached_class__0
+    java.lang.Object doInvoke(java.lang.Object,java.lang.Object) -> doInvoke
+    int getRequiredArity() -> getRequiredArity
+vertx.core$env -> vertx.core$env:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke() -> invoke
+vertx.core$event_loop_QMARK_ -> vertx.core$event_loop_QMARK_:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke() -> invoke
+vertx.core$exit -> vertx.core$exit:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke() -> invoke
+vertx.core$fn__130 -> vertx.core$fn__130:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.AFn const__4 -> const__4
+    java.lang.Object invoke() -> invoke
+vertx.core$fn__132 -> vertx.core$fn__132:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Keyword const__1 -> const__1
+    clojure.lang.Keyword const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    clojure.lang.Keyword const__4 -> const__4
+    java.lang.Object const__5 -> const__5
+    clojure.lang.Keyword const__6 -> const__6
+    clojure.lang.Keyword const__7 -> const__7
+    clojure.lang.AFn const__8 -> const__8
+    clojure.lang.AFn const__9 -> const__9
+    java.lang.Object invoke() -> invoke
+vertx.core$fn__135 -> vertx.core$fn__135:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Keyword const__1 -> const__1
+    clojure.lang.Keyword const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    clojure.lang.Keyword const__4 -> const__4
+    java.lang.Object const__5 -> const__5
+    clojure.lang.Keyword const__6 -> const__6
+    clojure.lang.Keyword const__7 -> const__7
+    clojure.lang.AFn const__8 -> const__8
+    clojure.lang.AFn const__9 -> const__9
+    java.lang.Object invoke() -> invoke
+vertx.core$get_container -> vertx.core$get_container:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object) -> invoke
+    java.lang.Object invoke() -> invoke
+vertx.core$get_vertx -> vertx.core$get_vertx:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke() -> invoke
+vertx.core$handler -> vertx.core$handler:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.AFn const__3 -> const__3
+    clojure.lang.AFn const__4 -> const__4
+    java.lang.Object doInvoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object) -> doInvoke
+    int getRequiredArity() -> getRequiredArity
+vertx.core$handler_QMARK_ -> vertx.core$handler_QMARK_:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.core$loading__4958__auto__ -> vertx.core$loading__4958__auto__:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.AFn const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.AFn const__3 -> const__3
+    java.lang.Object invoke() -> invoke
+vertx.core$on_stop -> vertx.core$on_stop:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.AFn const__3 -> const__3
+    clojure.lang.AFn const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    clojure.lang.Var const__6 -> const__6
+    java.lang.Object doInvoke(java.lang.Object,java.lang.Object,java.lang.Object) -> doInvoke
+    int getRequiredArity() -> getRequiredArity
+vertx.core$on_stop_STAR_ -> vertx.core$on_stop_STAR_:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.core$periodic -> vertx.core$periodic:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.AFn const__3 -> const__3
+    clojure.lang.AFn const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    clojure.lang.Var const__6 -> const__6
+    clojure.lang.AFn const__7 -> const__7
+    java.lang.Object doInvoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object) -> doInvoke
+    int getRequiredArity() -> getRequiredArity
+vertx.core$periodic_STAR_ -> vertx.core$periodic_STAR_:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.core$run_on_context -> vertx.core$run_on_context:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    java.lang.Object const__5 -> const__5
+    java.lang.Object const__6 -> const__6
+    clojure.lang.Var const__7 -> const__7
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.core$run_on_context$fn__196 -> vertx.core$run_on_context$fn__196:
+    java.lang.Object f -> f
+    java.lang.Object invoke() -> invoke
+vertx.core$timer -> vertx.core$timer:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.AFn const__3 -> const__3
+    clojure.lang.AFn const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    clojure.lang.Var const__6 -> const__6
+    clojure.lang.AFn const__7 -> const__7
+    java.lang.Object doInvoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object) -> doInvoke
+    int getRequiredArity() -> getRequiredArity
+vertx.core$timer_STAR_ -> vertx.core$timer_STAR_:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.core$undeploy_module -> vertx.core$undeploy_module:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.core$undeploy_verticle -> vertx.core$undeploy_verticle:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.core$worker_QMARK_ -> vertx.core$worker_QMARK_:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke() -> invoke
+vertx.core__init -> vertx.core__init:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.AFn const__1 -> const__1
+    clojure.lang.AFn const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Keyword const__4 -> const__4
+    clojure.lang.Keyword const__5 -> const__5
+    java.lang.Object const__6 -> const__6
+    clojure.lang.Keyword const__7 -> const__7
+    java.lang.Object const__8 -> const__8
+    clojure.lang.Keyword const__9 -> const__9
+    java.lang.Object const__10 -> const__10
+    clojure.lang.Keyword const__11 -> const__11
+    clojure.lang.AFn const__12 -> const__12
+    clojure.lang.Var const__13 -> const__13
+    java.lang.Object const__14 -> const__14
+    clojure.lang.Keyword const__15 -> const__15
+    clojure.lang.AFn const__16 -> const__16
+    clojure.lang.Var const__17 -> const__17
+    java.lang.Object const__18 -> const__18
+    clojure.lang.AFn const__19 -> const__19
+    clojure.lang.Var const__20 -> const__20
+    clojure.lang.Var const__21 -> const__21
+    java.lang.Object const__22 -> const__22
+    java.lang.Object const__23 -> const__23
+    clojure.lang.AFn const__24 -> const__24
+    clojure.lang.Var const__25 -> const__25
+    java.lang.Object const__26 -> const__26
+    java.lang.Object const__27 -> const__27
+    clojure.lang.AFn const__28 -> const__28
+    clojure.lang.Var const__29 -> const__29
+    java.lang.Object const__30 -> const__30
+    java.lang.Object const__31 -> const__31
+    clojure.lang.Keyword const__32 -> const__32
+    clojure.lang.Keyword const__33 -> const__33
+    java.lang.Object const__34 -> const__34
+    clojure.lang.AFn const__35 -> const__35
+    clojure.lang.Var const__36 -> const__36
+    java.lang.Object const__37 -> const__37
+    java.lang.Object const__38 -> const__38
+    java.lang.Object const__39 -> const__39
+    clojure.lang.AFn const__40 -> const__40
+    clojure.lang.Var const__41 -> const__41
+    java.lang.Object const__42 -> const__42
+    java.lang.Object const__43 -> const__43
+    clojure.lang.AFn const__44 -> const__44
+    clojure.lang.Var const__45 -> const__45
+    java.lang.Object const__46 -> const__46
+    java.lang.Object const__47 -> const__47
+    clojure.lang.AFn const__48 -> const__48
+    clojure.lang.Var const__49 -> const__49
+    java.lang.Object const__50 -> const__50
+    java.lang.Object const__51 -> const__51
+    clojure.lang.Keyword const__52 -> const__52
+    clojure.lang.Keyword const__53 -> const__53
+    clojure.lang.AFn const__54 -> const__54
+    clojure.lang.Var const__55 -> const__55
+    java.lang.Object const__56 -> const__56
+    java.lang.Object const__57 -> const__57
+    java.lang.Object const__58 -> const__58
+    clojure.lang.AFn const__59 -> const__59
+    clojure.lang.Var const__60 -> const__60
+    java.lang.Object const__61 -> const__61
+    java.lang.Object const__62 -> const__62
+    clojure.lang.AFn const__63 -> const__63
+    clojure.lang.Var const__64 -> const__64
+    java.lang.Object const__65 -> const__65
+    java.lang.Object const__66 -> const__66
+    clojure.lang.AFn const__67 -> const__67
+    clojure.lang.Var const__68 -> const__68
+    java.lang.Object const__69 -> const__69
+    java.lang.Object const__70 -> const__70
+    clojure.lang.AFn const__71 -> const__71
+    clojure.lang.Var const__72 -> const__72
+    java.lang.Object const__73 -> const__73
+    java.lang.Object const__74 -> const__74
+    clojure.lang.AFn const__75 -> const__75
+    clojure.lang.Var const__76 -> const__76
+    java.lang.Object const__77 -> const__77
+    java.lang.Object const__78 -> const__78
+    clojure.lang.AFn const__79 -> const__79
+    clojure.lang.Var const__80 -> const__80
+    java.lang.Object const__81 -> const__81
+    java.lang.Object const__82 -> const__82
+    clojure.lang.AFn const__83 -> const__83
+    clojure.lang.Var const__84 -> const__84
+    java.lang.Object const__85 -> const__85
+    java.lang.Object const__86 -> const__86
+    clojure.lang.AFn const__87 -> const__87
+    clojure.lang.Var const__88 -> const__88
+    java.lang.Object const__89 -> const__89
+    java.lang.Object const__90 -> const__90
+    clojure.lang.AFn const__91 -> const__91
+    clojure.lang.Var const__92 -> const__92
+    java.lang.Object const__93 -> const__93
+    java.lang.Object const__94 -> const__94
+    clojure.lang.AFn const__95 -> const__95
+    clojure.lang.Var const__96 -> const__96
+    java.lang.Object const__97 -> const__97
+    java.lang.Object const__98 -> const__98
+    clojure.lang.AFn const__99 -> const__99
+    clojure.lang.Var const__100 -> const__100
+    java.lang.Object const__101 -> const__101
+    java.lang.Object const__102 -> const__102
+    clojure.lang.AFn const__103 -> const__103
+    clojure.lang.Var const__104 -> const__104
+    java.lang.Object const__105 -> const__105
+    java.lang.Object const__106 -> const__106
+    clojure.lang.AFn const__107 -> const__107
+    clojure.lang.Var const__108 -> const__108
+    java.lang.Object const__109 -> const__109
+    java.lang.Object const__110 -> const__110
+    clojure.lang.AFn const__111 -> const__111
+    clojure.lang.Var const__112 -> const__112
+    java.lang.Object const__113 -> const__113
+    java.lang.Object const__114 -> const__114
+    clojure.lang.AFn const__115 -> const__115
+    clojure.lang.Var const__116 -> const__116
+    java.lang.Object const__117 -> const__117
+    java.lang.Object const__118 -> const__118
+    clojure.lang.AFn const__119 -> const__119
+    clojure.lang.Var const__120 -> const__120
+    java.lang.Object const__121 -> const__121
+    java.lang.Object const__122 -> const__122
+    clojure.lang.AFn const__123 -> const__123
+    clojure.lang.Var const__124 -> const__124
+    java.lang.Object const__125 -> const__125
+    java.lang.Object const__126 -> const__126
+    clojure.lang.AFn const__127 -> const__127
+    clojure.lang.Var const__128 -> const__128
+    java.lang.Object const__129 -> const__129
+    java.lang.Object const__130 -> const__130
+    clojure.lang.AFn const__131 -> const__131
+    clojure.lang.Var const__132 -> const__132
+    java.lang.Object const__133 -> const__133
+    java.lang.Object const__134 -> const__134
+    clojure.lang.AFn const__135 -> const__135
+    clojure.lang.Var const__136 -> const__136
+    java.lang.Object const__137 -> const__137
+    java.lang.Object const__138 -> const__138
+    clojure.lang.AFn const__139 -> const__139
+    clojure.lang.Var const__140 -> const__140
+    java.lang.Object const__141 -> const__141
+    java.lang.Object const__142 -> const__142
+    clojure.lang.AFn const__143 -> const__143
+    void load() -> load
+    void __init0() -> __init0
+    void __init1() -> __init1
+vertx.embed$fn__204 -> vertx.embed$fn__204:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.AFn const__4 -> const__4
+    java.lang.Object invoke() -> invoke
+vertx.embed$loading__4958__auto__ -> vertx.embed$loading__4958__auto__:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.AFn const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.AFn const__3 -> const__3
+    java.lang.Object invoke() -> invoke
+vertx.embed$set_vertx_BANG_ -> vertx.embed$set_vertx_BANG_:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.embed$vertx -> vertx.embed$vertx:
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object) -> invoke
+    java.lang.Object invoke() -> invoke
+vertx.embed$with_vertx -> vertx.embed$with_vertx:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.AFn const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    clojure.lang.AFn const__6 -> const__6
+    java.lang.Object doInvoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object) -> doInvoke
+    int getRequiredArity() -> getRequiredArity
+vertx.embed__init -> vertx.embed__init:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.AFn const__1 -> const__1
+    clojure.lang.AFn const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Keyword const__4 -> const__4
+    clojure.lang.Keyword const__5 -> const__5
+    java.lang.Object const__6 -> const__6
+    clojure.lang.Keyword const__7 -> const__7
+    java.lang.Object const__8 -> const__8
+    clojure.lang.Keyword const__9 -> const__9
+    java.lang.Object const__10 -> const__10
+    clojure.lang.Keyword const__11 -> const__11
+    clojure.lang.AFn const__12 -> const__12
+    clojure.lang.Var const__13 -> const__13
+    java.lang.Object const__14 -> const__14
+    java.lang.Object const__15 -> const__15
+    clojure.lang.AFn const__16 -> const__16
+    clojure.lang.Var const__17 -> const__17
+    java.lang.Object const__18 -> const__18
+    java.lang.Object const__19 -> const__19
+    clojure.lang.AFn const__20 -> const__20
+    void load() -> load
+    void __init0() -> __init0
+vertx.http$add_header -> vertx.http$add_header:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    java.lang.Class __cached_class__0 -> __cached_class__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http$add_headers -> vertx.http$add_headers:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    java.lang.Object const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    clojure.lang.Var const__6 -> const__6
+    clojure.lang.Var const__7 -> const__7
+    clojure.lang.Var const__8 -> const__8
+    clojure.lang.Var const__9 -> const__9
+    clojure.lang.Var const__10 -> const__10
+    clojure.lang.Var const__11 -> const__11
+    clojure.lang.Var const__12 -> const__12
+    clojure.lang.Var const__13 -> const__13
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http$add_trailer -> vertx.http$add_trailer:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http$add_trailers -> vertx.http$add_trailers:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    java.lang.Object const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    clojure.lang.Var const__6 -> const__6
+    clojure.lang.Var const__7 -> const__7
+    clojure.lang.Var const__8 -> const__8
+    clojure.lang.Var const__9 -> const__9
+    clojure.lang.Var const__10 -> const__10
+    clojure.lang.Var const__11 -> const__11
+    clojure.lang.Var const__12 -> const__12
+    clojure.lang.Var const__13 -> const__13
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http$client -> vertx.http$client:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    java.lang.Object invoke(java.lang.Object) -> invoke
+    java.lang.Object invoke() -> invoke
+vertx.http$close -> vertx.http$close:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$connect -> vertx.http$connect:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http$def_request_fn -> vertx.http$def_request_fn:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.AFn const__5 -> const__5
+    clojure.lang.Keyword const__6 -> const__6
+    clojure.lang.AFn const__7 -> const__7
+    clojure.lang.AFn const__8 -> const__8
+    clojure.lang.Var const__9 -> const__9
+    clojure.lang.Var const__10 -> const__10
+    clojure.lang.Var const__11 -> const__11
+    clojure.lang.AFn const__12 -> const__12
+    clojure.lang.Var const__13 -> const__13
+    clojure.lang.Var const__14 -> const__14
+    clojure.lang.AFn const__15 -> const__15
+    clojure.lang.AFn const__16 -> const__16
+    clojure.lang.AFn const__17 -> const__17
+    clojure.lang.AFn const__18 -> const__18
+    clojure.lang.AFn const__19 -> const__19
+    clojure.lang.AFn const__20 -> const__20
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http$delete -> vertx.http$delete:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http$encode_headers -> vertx.http$encode_headers:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    java.lang.Object const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    java.lang.Object const__6 -> const__6
+    clojure.lang.Var const__7 -> const__7
+    clojure.lang.Var const__8 -> const__8
+    clojure.lang.Var const__9 -> const__9
+    clojure.lang.Var const__10 -> const__10
+    clojure.lang.Var const__11 -> const__11
+    clojure.lang.Var const__12 -> const__12
+    clojure.lang.Var const__13 -> const__13
+    clojure.lang.Var const__14 -> const__14
+    clojure.lang.Var const__15 -> const__15
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$end -> vertx.http$end:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Class __cached_class__0 -> __cached_class__0
+    java.lang.Class __cached_class__1 -> __cached_class__1
+    java.lang.Class __cached_class__2 -> __cached_class__2
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$expect_multi_part -> vertx.http$expect_multi_part:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__271 -> vertx.http$fn__271:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.AFn const__4 -> const__4
+    java.lang.Object invoke() -> invoke
+vertx.http$fn__315 -> vertx.http$fn__315:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Keyword const__1 -> const__1
+    clojure.lang.Keyword const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    clojure.lang.Keyword const__4 -> const__4
+    java.lang.Object const__5 -> const__5
+    clojure.lang.AFn const__6 -> const__6
+    java.lang.Object const__7 -> const__7
+    clojure.lang.AFn const__8 -> const__8
+    java.lang.Object invoke() -> invoke
+vertx.http$fn__318 -> vertx.http$fn__318:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__318$G__309__323 -> vertx.http$fn__318$G__309__323:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    java.lang.Object G__310 -> G__310
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__318$G__310__320 -> vertx.http$fn__318$G__310__320:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__329 -> vertx.http$fn__329:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__329$G__313__334 -> vertx.http$fn__329$G__313__334:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    java.lang.Object G__314 -> G__314
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__329$G__314__331 -> vertx.http$fn__329$G__314__331:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__340 -> vertx.http$fn__340:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__340$G__307__347 -> vertx.http$fn__340$G__307__347:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    java.lang.Object G__308 -> G__308
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http$fn__340$G__308__343 -> vertx.http$fn__340$G__308__343:
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http$fn__353 -> vertx.http$fn__353:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__353$G__311__362 -> vertx.http$fn__353$G__311__362:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    java.lang.Object G__312 -> G__312
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http$fn__353$G__312__357 -> vertx.http$fn__353$G__312__357:
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http$fn__368 -> vertx.http$fn__368:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http$fn__370 -> vertx.http$fn__370:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__372 -> vertx.http$fn__372:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__374 -> vertx.http$fn__374:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__376 -> vertx.http$fn__376:
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http$fn__378 -> vertx.http$fn__378:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__380 -> vertx.http$fn__380:
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http$fn__382 -> vertx.http$fn__382:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__384 -> vertx.http$fn__384:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http$fn__386 -> vertx.http$fn__386:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__423 -> vertx.http$fn__423:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Keyword const__1 -> const__1
+    clojure.lang.Keyword const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    clojure.lang.Keyword const__4 -> const__4
+    java.lang.Object const__5 -> const__5
+    clojure.lang.AFn const__6 -> const__6
+    java.lang.Object const__7 -> const__7
+    clojure.lang.AFn const__8 -> const__8
+    java.lang.Object invoke() -> invoke
+vertx.http$fn__426 -> vertx.http$fn__426:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__426$G__421__441 -> vertx.http$fn__426$G__421__441:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    java.lang.Object G__422 -> G__422
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__426$G__422__433 -> vertx.http$fn__426$G__422__433:
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__451 -> vertx.http$fn__451:
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$fn__453 -> vertx.http$fn__453:
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$form_attributes -> vertx.http$form_attributes:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$get -> vertx.http$get:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http$get_now -> vertx.http$get_now:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http$head -> vertx.http$head:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http$headers -> vertx.http$headers:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Class __cached_class__0 -> __cached_class__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$listen -> vertx.http$listen:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http$loading__4958__auto__ -> vertx.http$loading__4958__auto__:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.AFn const__1 -> const__1
+    clojure.lang.Keyword const__2 -> const__2
+    clojure.lang.AFn const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.AFn const__5 -> const__5
+    clojure.lang.AFn const__6 -> const__6
+    clojure.lang.AFn const__7 -> const__7
+    clojure.lang.AFn const__8 -> const__8
+    clojure.lang.AFn const__9 -> const__9
+    java.lang.Object invoke() -> invoke
+vertx.http$on_body -> vertx.http$on_body:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Class __cached_class__0 -> __cached_class__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http$on_close -> vertx.http$on_close:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http$on_continue -> vertx.http$on_continue:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http$on_request -> vertx.http$on_request:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http$on_upload -> vertx.http$on_upload:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http$options -> vertx.http$options:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http$params -> vertx.http$params:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$parse_multi_map -> vertx.http$parse_multi_map:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$parse_multi_map$iter__273__277 -> vertx.http$parse_multi_map$iter__273__277:
+    java.lang.Object multi_map -> multi_map
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$parse_multi_map$iter__273__277$fn__278 -> vertx.http$parse_multi_map$iter__273__277$fn__278:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    clojure.lang.Var const__6 -> const__6
+    clojure.lang.Var const__7 -> const__7
+    clojure.lang.Var const__8 -> const__8
+    clojure.lang.Var const__9 -> const__9
+    clojure.lang.Var const__10 -> const__10
+    clojure.lang.Var const__11 -> const__11
+    clojure.lang.Var const__12 -> const__12
+    java.lang.Object const__13 -> const__13
+    clojure.lang.Var const__14 -> const__14
+    clojure.lang.Var const__15 -> const__15
+    java.lang.Object const__16 -> const__16
+    clojure.lang.Var const__17 -> const__17
+    clojure.lang.Var const__18 -> const__18
+    java.lang.Object s__274 -> s__274
+    java.lang.Object multi_map -> multi_map
+    java.lang.Object iter__273 -> iter__273
+    java.lang.Object invoke() -> invoke
+vertx.http$parse_multi_map$iter__273__277$fn__278$fn__279 -> vertx.http$parse_multi_map$iter__273__277$fn__278$fn__279:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    java.lang.Object const__6 -> const__6
+    clojure.lang.Var const__7 -> const__7
+    clojure.lang.Var const__8 -> const__8
+    java.lang.Object const__9 -> const__9
+    clojure.lang.Var const__10 -> const__10
+    clojure.lang.Var const__11 -> const__11
+    clojure.lang.Var const__12 -> const__12
+    clojure.lang.Var const__13 -> const__13
+    java.lang.Object b__276 -> b__276
+    java.lang.Object c__4633__auto__ -> c__4633__auto__
+    int size__4634__auto__ -> size__4634__auto__
+    java.lang.Object multi_map -> multi_map
+    java.lang.Object invoke() -> invoke
+vertx.http$patch -> vertx.http$patch:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http$post -> vertx.http$post:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http$put -> vertx.http$put:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http$remote_address -> vertx.http$remote_address:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$request -> vertx.http$request:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http$request_method -> vertx.http$request_method:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$send_file -> vertx.http$send_file:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Keyword const__3 -> const__3
+    clojure.lang.Keyword const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    java.lang.Object doInvoke(java.lang.Object,java.lang.Object,java.lang.Object) -> doInvoke
+    int getRequiredArity() -> getRequiredArity
+vertx.http$server -> vertx.http$server:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    java.lang.Object invoke(java.lang.Object) -> invoke
+    java.lang.Object invoke() -> invoke
+vertx.http$server_response -> vertx.http$server_response:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$trace -> vertx.http$trace:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http$trailers -> vertx.http$trailers:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Class __cached_class__0 -> __cached_class__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$upload_file_info -> vertx.http$upload_file_info:
+    clojure.lang.Keyword const__0 -> const__0
+    clojure.lang.Keyword const__1 -> const__1
+    clojure.lang.Keyword const__2 -> const__2
+    clojure.lang.Keyword const__3 -> const__3
+    clojure.lang.Keyword const__4 -> const__4
+    clojure.lang.Keyword const__5 -> const__5
+    clojure.lang.Keyword const__6 -> const__6
+    clojure.lang.Keyword const__7 -> const__7
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$upload_file_info$fn__414 -> vertx.http$upload_file_info$fn__414:
+    java.lang.Object file -> file
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http$version -> vertx.http$version:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http.End -> vertx.http.End:
+    java.lang.Object _end() -> _end
+    java.lang.Object _end(java.lang.Object) -> _end
+    java.lang.Object _end(java.lang.Object,java.lang.Object) -> _end
+vertx.http.RequestResponseFunctions -> vertx.http.RequestResponseFunctions:
+    java.lang.Object _on_body(java.lang.Object) -> _on_body
+    java.lang.Object _trailers() -> _trailers
+    java.lang.Object _add_header(java.lang.Object,java.lang.Object) -> _add_header
+    java.lang.Object _headers() -> _headers
+vertx.http.route$all -> vertx.http.route$all:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http.route$connect -> vertx.http.route$connect:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http.route$def_match_fn -> vertx.http.route$def_match_fn:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.AFn const__5 -> const__5
+    clojure.lang.Keyword const__6 -> const__6
+    clojure.lang.AFn const__7 -> const__7
+    clojure.lang.AFn const__8 -> const__8
+    clojure.lang.Var const__9 -> const__9
+    clojure.lang.Var const__10 -> const__10
+    clojure.lang.Var const__11 -> const__11
+    clojure.lang.AFn const__12 -> const__12
+    clojure.lang.Var const__13 -> const__13
+    clojure.lang.Var const__14 -> const__14
+    clojure.lang.AFn const__15 -> const__15
+    clojure.lang.AFn const__16 -> const__16
+    clojure.lang.AFn const__17 -> const__17
+    clojure.lang.AFn const__18 -> const__18
+    clojure.lang.AFn const__19 -> const__19
+    clojure.lang.AFn const__20 -> const__20
+    clojure.lang.AFn const__21 -> const__21
+    clojure.lang.AFn const__22 -> const__22
+    clojure.lang.AFn const__23 -> const__23
+    clojure.lang.AFn const__24 -> const__24
+    clojure.lang.AFn const__25 -> const__25
+    clojure.lang.AFn const__26 -> const__26
+    clojure.lang.AFn const__27 -> const__27
+    clojure.lang.AFn const__28 -> const__28
+    clojure.lang.AFn const__29 -> const__29
+    clojure.lang.AFn const__30 -> const__30
+    clojure.lang.AFn const__31 -> const__31
+    clojure.lang.AFn const__32 -> const__32
+    clojure.lang.AFn const__33 -> const__33
+    clojure.lang.AFn const__34 -> const__34
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.http.route$delete -> vertx.http.route$delete:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http.route$fn__471 -> vertx.http.route$fn__471:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.AFn const__4 -> const__4
+    java.lang.Object invoke() -> invoke
+vertx.http.route$get -> vertx.http.route$get:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http.route$head -> vertx.http.route$head:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http.route$loading__4958__auto__ -> vertx.http.route$loading__4958__auto__:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.AFn const__1 -> const__1
+    clojure.lang.Keyword const__2 -> const__2
+    clojure.lang.AFn const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.AFn const__5 -> const__5
+    clojure.lang.AFn const__6 -> const__6
+    java.lang.Object invoke() -> invoke
+vertx.http.route$matcher -> vertx.http.route$matcher:
+    java.lang.Object invoke() -> invoke
+vertx.http.route$no_match -> vertx.http.route$no_match:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.http.route$options -> vertx.http.route$options:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http.route$patch -> vertx.http.route$patch:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http.route$post -> vertx.http.route$post:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http.route$put -> vertx.http.route$put:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http.route$trace -> vertx.http.route$trace:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.http.route__init -> vertx.http.route__init:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.AFn const__1 -> const__1
+    clojure.lang.AFn const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Keyword const__4 -> const__4
+    clojure.lang.Keyword const__5 -> const__5
+    java.lang.Object const__6 -> const__6
+    clojure.lang.Keyword const__7 -> const__7
+    java.lang.Object const__8 -> const__8
+    clojure.lang.Keyword const__9 -> const__9
+    java.lang.Object const__10 -> const__10
+    clojure.lang.Keyword const__11 -> const__11
+    clojure.lang.AFn const__12 -> const__12
+    clojure.lang.Var const__13 -> const__13
+    java.lang.Object const__14 -> const__14
+    java.lang.Object const__15 -> const__15
+    clojure.lang.Keyword const__16 -> const__16
+    clojure.lang.AFn const__17 -> const__17
+    clojure.lang.Var const__18 -> const__18
+    java.lang.Object const__19 -> const__19
+    java.lang.Object const__20 -> const__20
+    clojure.lang.AFn const__21 -> const__21
+    clojure.lang.Var const__22 -> const__22
+    java.lang.Object const__23 -> const__23
+    java.lang.Object const__24 -> const__24
+    clojure.lang.AFn const__25 -> const__25
+    clojure.lang.Var const__26 -> const__26
+    java.lang.Object const__27 -> const__27
+    java.lang.Object const__28 -> const__28
+    clojure.lang.AFn const__29 -> const__29
+    clojure.lang.Var const__30 -> const__30
+    java.lang.Object const__31 -> const__31
+    java.lang.Object const__32 -> const__32
+    clojure.lang.AFn const__33 -> const__33
+    clojure.lang.Var const__34 -> const__34
+    java.lang.Object const__35 -> const__35
+    java.lang.Object const__36 -> const__36
+    clojure.lang.AFn const__37 -> const__37
+    clojure.lang.Var const__38 -> const__38
+    java.lang.Object const__39 -> const__39
+    java.lang.Object const__40 -> const__40
+    clojure.lang.AFn const__41 -> const__41
+    clojure.lang.Var const__42 -> const__42
+    java.lang.Object const__43 -> const__43
+    java.lang.Object const__44 -> const__44
+    clojure.lang.AFn const__45 -> const__45
+    clojure.lang.Var const__46 -> const__46
+    java.lang.Object const__47 -> const__47
+    java.lang.Object const__48 -> const__48
+    clojure.lang.AFn const__49 -> const__49
+    clojure.lang.Var const__50 -> const__50
+    java.lang.Object const__51 -> const__51
+    java.lang.Object const__52 -> const__52
+    clojure.lang.AFn const__53 -> const__53
+    clojure.lang.Var const__54 -> const__54
+    java.lang.Object const__55 -> const__55
+    java.lang.Object const__56 -> const__56
+    clojure.lang.AFn const__57 -> const__57
+    clojure.lang.Var const__58 -> const__58
+    java.lang.Object const__59 -> const__59
+    java.lang.Object const__60 -> const__60
+    clojure.lang.AFn const__61 -> const__61
+    void load() -> load
+    void __init0() -> __init0
+vertx.http__init -> vertx.http__init:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.AFn const__1 -> const__1
+    clojure.lang.AFn const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Keyword const__4 -> const__4
+    clojure.lang.Keyword const__5 -> const__5
+    java.lang.Object const__6 -> const__6
+    clojure.lang.Keyword const__7 -> const__7
+    java.lang.Object const__8 -> const__8
+    clojure.lang.Keyword const__9 -> const__9
+    java.lang.Object const__10 -> const__10
+    clojure.lang.Keyword const__11 -> const__11
+    clojure.lang.Keyword const__12 -> const__12
+    clojure.lang.AFn const__13 -> const__13
+    clojure.lang.Var const__14 -> const__14
+    java.lang.Object const__15 -> const__15
+    java.lang.Object const__16 -> const__16
+    clojure.lang.Keyword const__17 -> const__17
+    clojure.lang.Keyword const__18 -> const__18
+    clojure.lang.AFn const__19 -> const__19
+    clojure.lang.Var const__20 -> const__20
+    java.lang.Object const__21 -> const__21
+    java.lang.Object const__22 -> const__22
+    clojure.lang.AFn const__23 -> const__23
+    clojure.lang.Var const__24 -> const__24
+    java.lang.Object const__25 -> const__25
+    java.lang.Object const__26 -> const__26
+    clojure.lang.AFn const__27 -> const__27
+    clojure.lang.Var const__28 -> const__28
+    java.lang.Object const__29 -> const__29
+    java.lang.Object const__30 -> const__30
+    clojure.lang.AFn const__31 -> const__31
+    clojure.lang.Var const__32 -> const__32
+    java.lang.Object const__33 -> const__33
+    java.lang.Object const__34 -> const__34
+    clojure.lang.AFn const__35 -> const__35
+    clojure.lang.Var const__36 -> const__36
+    java.lang.Object const__37 -> const__37
+    java.lang.Object const__38 -> const__38
+    clojure.lang.AFn const__39 -> const__39
+    clojure.lang.Var const__40 -> const__40
+    java.lang.Object const__41 -> const__41
+    java.lang.Object const__42 -> const__42
+    clojure.lang.AFn const__43 -> const__43
+    clojure.lang.Var const__44 -> const__44
+    java.lang.Object const__45 -> const__45
+    java.lang.Object const__46 -> const__46
+    clojure.lang.AFn const__47 -> const__47
+    clojure.lang.Var const__48 -> const__48
+    java.lang.Object const__49 -> const__49
+    java.lang.Object const__50 -> const__50
+    clojure.lang.AFn const__51 -> const__51
+    clojure.lang.Var const__52 -> const__52
+    java.lang.Object const__53 -> const__53
+    java.lang.Object const__54 -> const__54
+    clojure.lang.AFn const__55 -> const__55
+    clojure.lang.Var const__56 -> const__56
+    clojure.lang.Var const__57 -> const__57
+    clojure.lang.Var const__58 -> const__58
+    clojure.lang.Var const__59 -> const__59
+    clojure.lang.ISeq const__60 -> const__60
+    clojure.lang.Var const__61 -> const__61
+    clojure.lang.Var const__62 -> const__62
+    clojure.lang.Keyword const__63 -> const__63
+    clojure.lang.AFn const__64 -> const__64
+    clojure.lang.Keyword const__65 -> const__65
+    java.lang.Object const__66 -> const__66
+    clojure.lang.AFn const__67 -> const__67
+    clojure.lang.Keyword const__68 -> const__68
+    clojure.lang.AFn const__69 -> const__69
+    clojure.lang.Keyword const__70 -> const__70
+    clojure.lang.Keyword const__71 -> const__71
+    clojure.lang.Keyword const__72 -> const__72
+    clojure.lang.Keyword const__73 -> const__73
+    clojure.lang.Keyword const__74 -> const__74
+    clojure.lang.Keyword const__75 -> const__75
+    clojure.lang.AFn const__76 -> const__76
+    clojure.lang.Keyword const__77 -> const__77
+    clojure.lang.Var const__78 -> const__78
+    clojure.lang.Var const__79 -> const__79
+    clojure.lang.Var const__80 -> const__80
+    clojure.lang.AFn const__81 -> const__81
+    clojure.lang.AFn const__82 -> const__82
+    clojure.lang.Keyword const__83 -> const__83
+    clojure.lang.AFn const__84 -> const__84
+    clojure.lang.AFn const__85 -> const__85
+    clojure.lang.AFn const__86 -> const__86
+    clojure.lang.AFn const__87 -> const__87
+    clojure.lang.AFn const__88 -> const__88
+    clojure.lang.AFn const__89 -> const__89
+    clojure.lang.Var const__90 -> const__90
+    clojure.lang.AFn const__91 -> const__91
+    clojure.lang.Var const__92 -> const__92
+    java.lang.Object const__93 -> const__93
+    java.lang.Object const__94 -> const__94
+    java.lang.Object const__95 -> const__95
+    java.lang.Object const__96 -> const__96
+    clojure.lang.Var const__97 -> const__97
+    java.lang.Object const__98 -> const__98
+    java.lang.Object const__99 -> const__99
+    clojure.lang.AFn const__100 -> const__100
+    clojure.lang.Var const__101 -> const__101
+    java.lang.Object const__102 -> const__102
+    java.lang.Object const__103 -> const__103
+    clojure.lang.AFn const__104 -> const__104
+    clojure.lang.Var const__105 -> const__105
+    java.lang.Object const__106 -> const__106
+    java.lang.Object const__107 -> const__107
+    clojure.lang.AFn const__108 -> const__108
+    clojure.lang.Var const__109 -> const__109
+    java.lang.Object const__110 -> const__110
+    java.lang.Object const__111 -> const__111
+    clojure.lang.AFn const__112 -> const__112
+    clojure.lang.Var const__113 -> const__113
+    java.lang.Object const__114 -> const__114
+    java.lang.Object const__115 -> const__115
+    clojure.lang.AFn const__116 -> const__116
+    clojure.lang.Var const__117 -> const__117
+    java.lang.Object const__118 -> const__118
+    java.lang.Object const__119 -> const__119
+    clojure.lang.AFn const__120 -> const__120
+    clojure.lang.Var const__121 -> const__121
+    java.lang.Object const__122 -> const__122
+    java.lang.Object const__123 -> const__123
+    clojure.lang.AFn const__124 -> const__124
+    clojure.lang.Var const__125 -> const__125
+    java.lang.Object const__126 -> const__126
+    java.lang.Object const__127 -> const__127
+    clojure.lang.AFn const__128 -> const__128
+    clojure.lang.Var const__129 -> const__129
+    java.lang.Object const__130 -> const__130
+    java.lang.Object const__131 -> const__131
+    clojure.lang.AFn const__132 -> const__132
+    clojure.lang.Var const__133 -> const__133
+    java.lang.Object const__134 -> const__134
+    java.lang.Object const__135 -> const__135
+    clojure.lang.AFn const__136 -> const__136
+    clojure.lang.Var const__137 -> const__137
+    java.lang.Object const__138 -> const__138
+    java.lang.Object const__139 -> const__139
+    clojure.lang.AFn const__140 -> const__140
+    clojure.lang.Var const__141 -> const__141
+    java.lang.Object const__142 -> const__142
+    java.lang.Object const__143 -> const__143
+    clojure.lang.AFn const__144 -> const__144
+    clojure.lang.Var const__145 -> const__145
+    java.lang.Object const__146 -> const__146
+    java.lang.Object const__147 -> const__147
+    clojure.lang.AFn const__148 -> const__148
+    clojure.lang.Var const__149 -> const__149
+    clojure.lang.ISeq const__150 -> const__150
+    clojure.lang.AFn const__151 -> const__151
+    java.lang.Object const__152 -> const__152
+    clojure.lang.AFn const__153 -> const__153
+    clojure.lang.AFn const__154 -> const__154
+    clojure.lang.Keyword const__155 -> const__155
+    clojure.lang.AFn const__156 -> const__156
+    clojure.lang.AFn const__157 -> const__157
+    clojure.lang.AFn const__158 -> const__158
+    clojure.lang.AFn const__159 -> const__159
+    clojure.lang.Var const__160 -> const__160
+    java.lang.Object const__161 -> const__161
+    java.lang.Object const__162 -> const__162
+    clojure.lang.AFn const__163 -> const__163
+    clojure.lang.Var const__164 -> const__164
+    java.lang.Object const__165 -> const__165
+    java.lang.Object const__166 -> const__166
+    clojure.lang.AFn const__167 -> const__167
+    clojure.lang.Var const__168 -> const__168
+    java.lang.Object const__169 -> const__169
+    java.lang.Object const__170 -> const__170
+    clojure.lang.AFn const__171 -> const__171
+    clojure.lang.Var const__172 -> const__172
+    java.lang.Object const__173 -> const__173
+    java.lang.Object const__174 -> const__174
+    clojure.lang.AFn const__175 -> const__175
+    clojure.lang.Var const__176 -> const__176
+    java.lang.Object const__177 -> const__177
+    java.lang.Object const__178 -> const__178
+    clojure.lang.AFn const__179 -> const__179
+    clojure.lang.Var const__180 -> const__180
+    java.lang.Object const__181 -> const__181
+    java.lang.Object const__182 -> const__182
+    clojure.lang.AFn const__183 -> const__183
+    clojure.lang.Var const__184 -> const__184
+    java.lang.Object const__185 -> const__185
+    java.lang.Object const__186 -> const__186
+    clojure.lang.AFn const__187 -> const__187
+    clojure.lang.Var const__188 -> const__188
+    java.lang.Object const__189 -> const__189
+    java.lang.Object const__190 -> const__190
+    clojure.lang.AFn const__191 -> const__191
+    clojure.lang.Var const__192 -> const__192
+    java.lang.Object const__193 -> const__193
+    java.lang.Object const__194 -> const__194
+    clojure.lang.AFn const__195 -> const__195
+    clojure.lang.Var const__196 -> const__196
+    java.lang.Object const__197 -> const__197
+    java.lang.Object const__198 -> const__198
+    clojure.lang.AFn const__199 -> const__199
+    clojure.lang.Var const__200 -> const__200
+    java.lang.Object const__201 -> const__201
+    java.lang.Object const__202 -> const__202
+    clojure.lang.AFn const__203 -> const__203
+    clojure.lang.Var const__204 -> const__204
+    java.lang.Object const__205 -> const__205
+    java.lang.Object const__206 -> const__206
+    clojure.lang.AFn const__207 -> const__207
+    clojure.lang.Var const__208 -> const__208
+    java.lang.Object const__209 -> const__209
+    java.lang.Object const__210 -> const__210
+    clojure.lang.AFn const__211 -> const__211
+    clojure.lang.Var const__212 -> const__212
+    java.lang.Object const__213 -> const__213
+    java.lang.Object const__214 -> const__214
+    clojure.lang.AFn const__215 -> const__215
+    clojure.lang.Var const__216 -> const__216
+    java.lang.Object const__217 -> const__217
+    java.lang.Object const__218 -> const__218
+    clojure.lang.AFn const__219 -> const__219
+    void load() -> load
+    void __init0() -> __init0
+    void __init1() -> __init1
+    void __init2() -> __init2
+vertx.net$client -> vertx.net$client:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    java.lang.Object invoke(java.lang.Object) -> invoke
+    java.lang.Object invoke() -> invoke
+vertx.net$close -> vertx.net$close:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.net$connect -> vertx.net$connect:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.net$fn__250 -> vertx.net$fn__250:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.AFn const__4 -> const__4
+    java.lang.Object invoke() -> invoke
+vertx.net$listen -> vertx.net$listen:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.net$loading__4958__auto__ -> vertx.net$loading__4958__auto__:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.AFn const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.AFn const__3 -> const__3
+    clojure.lang.AFn const__4 -> const__4
+    java.lang.Object invoke() -> invoke
+vertx.net$normalize_ssl_props -> vertx.net$normalize_ssl_props:
+    clojure.lang.Keyword const__0 -> const__0
+    clojure.lang.Keyword const__1 -> const__1
+    clojure.lang.AFn const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.net$normalize_ssl_props$fn__253 -> vertx.net$normalize_ssl_props$fn__253:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    java.lang.Object const__2 -> const__2
+    java.lang.Object replacements -> replacements
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.net$on_close -> vertx.net$on_close:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.net$on_connect -> vertx.net$on_connect:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.net$remote_address -> vertx.net$remote_address:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.net$send_file -> vertx.net$send_file:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.net$server -> vertx.net$server:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    java.lang.Object invoke(java.lang.Object) -> invoke
+    java.lang.Object invoke() -> invoke
+vertx.net$ssl -> vertx.net$ssl:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.net$ssl_QMARK_ -> vertx.net$ssl_QMARK_:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.net__init -> vertx.net__init:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.AFn const__1 -> const__1
+    clojure.lang.AFn const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Keyword const__4 -> const__4
+    clojure.lang.Keyword const__5 -> const__5
+    java.lang.Object const__6 -> const__6
+    clojure.lang.Keyword const__7 -> const__7
+    java.lang.Object const__8 -> const__8
+    clojure.lang.Keyword const__9 -> const__9
+    java.lang.Object const__10 -> const__10
+    clojure.lang.Keyword const__11 -> const__11
+    clojure.lang.AFn const__12 -> const__12
+    clojure.lang.Var const__13 -> const__13
+    java.lang.Object const__14 -> const__14
+    java.lang.Object const__15 -> const__15
+    clojure.lang.Keyword const__16 -> const__16
+    clojure.lang.AFn const__17 -> const__17
+    clojure.lang.Var const__18 -> const__18
+    java.lang.Object const__19 -> const__19
+    java.lang.Object const__20 -> const__20
+    clojure.lang.AFn const__21 -> const__21
+    clojure.lang.Var const__22 -> const__22
+    java.lang.Object const__23 -> const__23
+    java.lang.Object const__24 -> const__24
+    clojure.lang.AFn const__25 -> const__25
+    clojure.lang.Var const__26 -> const__26
+    java.lang.Object const__27 -> const__27
+    java.lang.Object const__28 -> const__28
+    clojure.lang.AFn const__29 -> const__29
+    clojure.lang.Var const__30 -> const__30
+    java.lang.Object const__31 -> const__31
+    java.lang.Object const__32 -> const__32
+    clojure.lang.AFn const__33 -> const__33
+    clojure.lang.Var const__34 -> const__34
+    java.lang.Object const__35 -> const__35
+    java.lang.Object const__36 -> const__36
+    clojure.lang.AFn const__37 -> const__37
+    clojure.lang.Var const__38 -> const__38
+    java.lang.Object const__39 -> const__39
+    java.lang.Object const__40 -> const__40
+    clojure.lang.AFn const__41 -> const__41
+    clojure.lang.Var const__42 -> const__42
+    java.lang.Object const__43 -> const__43
+    java.lang.Object const__44 -> const__44
+    clojure.lang.AFn const__45 -> const__45
+    clojure.lang.Var const__46 -> const__46
+    java.lang.Object const__47 -> const__47
+    java.lang.Object const__48 -> const__48
+    clojure.lang.AFn const__49 -> const__49
+    clojure.lang.Var const__50 -> const__50
+    java.lang.Object const__51 -> const__51
+    java.lang.Object const__52 -> const__52
+    clojure.lang.AFn const__53 -> const__53
+    clojure.lang.Var const__54 -> const__54
+    java.lang.Object const__55 -> const__55
+    java.lang.Object const__56 -> const__56
+    clojure.lang.AFn const__57 -> const__57
+    void load() -> load
+    void __init0() -> __init0
+vertx.utils$camelize -> vertx.utils$camelize:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    clojure.lang.Var const__6 -> const__6
+    clojure.lang.Var const__7 -> const__7
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$camelize$fn__97 -> vertx.utils$camelize$fn__97:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$encode_collection -> vertx.utils$encode_collection:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    java.lang.Object const__5 -> const__5
+    java.lang.Object const__6 -> const__6
+    java.lang.Object const__7 -> const__7
+    java.lang.Object const__8 -> const__8
+    clojure.lang.Var const__9 -> const__9
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__110 -> vertx.utils$fn__110:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Keyword const__1 -> const__1
+    clojure.lang.Keyword const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    clojure.lang.Keyword const__4 -> const__4
+    java.lang.Object const__5 -> const__5
+    clojure.lang.AFn const__6 -> const__6
+    java.lang.Object const__7 -> const__7
+    clojure.lang.AFn const__8 -> const__8
+    java.lang.Object invoke() -> invoke
+vertx.utils$fn__113 -> vertx.utils$fn__113:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__113$G__108__118 -> vertx.utils$fn__113$G__108__118:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    java.lang.Object G__109 -> G__109
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__113$G__109__115 -> vertx.utils$fn__113$G__109__115:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__12 -> vertx.utils$fn__12:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__12$G__7__17 -> vertx.utils$fn__12$G__7__17:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    java.lang.Object G__8 -> G__8
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__12$G__8__14 -> vertx.utils$fn__12$G__8__14:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__124 -> vertx.utils$fn__124:
+    clojure.lang.Keyword const__0 -> const__0
+    clojure.lang.Keyword const__1 -> const__1
+    clojure.lang.Keyword const__2 -> const__2
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__126 -> vertx.utils$fn__126:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__45 -> vertx.utils$fn__45:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__47 -> vertx.utils$fn__47:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__49 -> vertx.utils$fn__49:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__5 -> vertx.utils$fn__5:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.AFn const__4 -> const__4
+    java.lang.Object invoke() -> invoke
+vertx.utils$fn__51 -> vertx.utils$fn__51:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__53 -> vertx.utils$fn__53:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__55 -> vertx.utils$fn__55:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__57 -> vertx.utils$fn__57:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__59 -> vertx.utils$fn__59:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__61 -> vertx.utils$fn__61:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__63 -> vertx.utils$fn__63:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__67 -> vertx.utils$fn__67:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Keyword const__1 -> const__1
+    clojure.lang.Keyword const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    clojure.lang.Keyword const__4 -> const__4
+    java.lang.Object const__5 -> const__5
+    clojure.lang.AFn const__6 -> const__6
+    clojure.lang.AFn const__7 -> const__7
+    java.lang.Object invoke() -> invoke
+vertx.utils$fn__70 -> vertx.utils$fn__70:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__70$G__65__75 -> vertx.utils$fn__70$G__65__75:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    java.lang.Object G__66 -> G__66
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__70$G__66__72 -> vertx.utils$fn__70$G__66__72:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__81 -> vertx.utils$fn__81:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__83 -> vertx.utils$fn__83:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__83$fn__84 -> vertx.utils$fn__83$fn__84:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Class __cached_class__0 -> __cached_class__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.utils$fn__87 -> vertx.utils$fn__87:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Class __cached_class__0 -> __cached_class__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__89 -> vertx.utils$fn__89:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__9 -> vertx.utils$fn__9:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Keyword const__1 -> const__1
+    clojure.lang.Keyword const__2 -> const__2
+    java.lang.Object const__3 -> const__3
+    clojure.lang.Keyword const__4 -> const__4
+    java.lang.Object const__5 -> const__5
+    clojure.lang.AFn const__6 -> const__6
+    clojure.lang.AFn const__7 -> const__7
+    java.lang.Object invoke() -> invoke
+vertx.utils$fn__91 -> vertx.utils$fn__91:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$fn__93 -> vertx.utils$fn__93:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$inet_address__GT_map -> vertx.utils$inet_address__GT_map:
+    clojure.lang.Keyword const__0 -> const__0
+    clojure.lang.Keyword const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$inet_socket_address__GT_map -> vertx.utils$inet_socket_address__GT_map:
+    clojure.lang.Keyword const__0 -> const__0
+    clojure.lang.Keyword const__1 -> const__1
+    clojure.lang.Keyword const__2 -> const__2
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$interface_name -> vertx.utils$interface_name:
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$java_map__GT_JsonObject -> vertx.utils$java_map__GT_JsonObject:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$java_map__GT_JsonObject$fn__32 -> vertx.utils$java_map__GT_JsonObject$fn__32:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.utils$loading__4958__auto__ -> vertx.utils$loading__4958__auto__:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.AFn const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.AFn const__3 -> const__3
+    java.lang.Object invoke() -> invoke
+vertx.utils$map__GT_JsonObject -> vertx.utils$map__GT_JsonObject:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$map__GT_JsonObject$fn__27 -> vertx.utils$map__GT_JsonObject$fn__27:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.utils$put -> vertx.utils$put:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    java.lang.Class __cached_class__0 -> __cached_class__0
+    java.lang.Class __cached_class__1 -> __cached_class__1
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.utils$require_resolve -> vertx.utils$require_resolve:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$seq__GT_JsonArray -> vertx.utils$seq__GT_JsonArray:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$seq__GT_JsonArray$fn__37 -> vertx.utils$seq__GT_JsonArray$fn__37:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Class __cached_class__0 -> __cached_class__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.utils$set_properties -> vertx.utils$set_properties:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object invoke(java.lang.Object,java.lang.Object) -> invoke
+vertx.utils$set_properties$fn__102 -> vertx.utils$set_properties$fn__102:
+    clojure.lang.Var const__0 -> const__0
+    java.lang.Object const__1 -> const__1
+    java.lang.Object const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    java.lang.Object obj -> obj
+    java.lang.Object invoke(java.lang.Object) -> invoke
+vertx.utils$set_property -> vertx.utils$set_property:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.Var const__1 -> const__1
+    clojure.lang.Var const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    java.lang.Object const__4 -> const__4
+    java.lang.Object invoke(java.lang.Object,java.lang.Object,java.lang.Object) -> invoke
+vertx.utils$uuid -> vertx.utils$uuid:
+    java.lang.Object invoke() -> invoke
+vertx.utils.Decodeable -> vertx.utils.Decodeable:
+    java.lang.Object decode() -> decode
+vertx.utils.Encodeable -> vertx.utils.Encodeable:
+    java.lang.Object encode() -> encode
+vertx.utils.ExceptionAsMap -> vertx.utils.ExceptionAsMap:
+    java.lang.Object exception__GT_map() -> exception__GT_map
+vertx.utils__init -> vertx.utils__init:
+    clojure.lang.Var const__0 -> const__0
+    clojure.lang.AFn const__1 -> const__1
+    clojure.lang.AFn const__2 -> const__2
+    clojure.lang.Var const__3 -> const__3
+    clojure.lang.Var const__4 -> const__4
+    clojure.lang.Var const__5 -> const__5
+    clojure.lang.Keyword const__6 -> const__6
+    clojure.lang.Var const__7 -> const__7
+    clojure.lang.ISeq const__8 -> const__8
+    clojure.lang.Var const__9 -> const__9
+    clojure.lang.Var const__10 -> const__10
+    clojure.lang.Keyword const__11 -> const__11
+    clojure.lang.AFn const__12 -> const__12
+    clojure.lang.Keyword const__13 -> const__13
+    java.lang.Object const__14 -> const__14
+    clojure.lang.AFn const__15 -> const__15
+    clojure.lang.Keyword const__16 -> const__16
+    clojure.lang.AFn const__17 -> const__17
+    clojure.lang.Keyword const__18 -> const__18
+    clojure.lang.Keyword const__19 -> const__19
+    clojure.lang.Keyword const__20 -> const__20
+    clojure.lang.AFn const__21 -> const__21
+    clojure.lang.Keyword const__22 -> const__22
+    clojure.lang.Var const__23 -> const__23
+    clojure.lang.Var const__24 -> const__24
+    clojure.lang.Var const__25 -> const__25
+    clojure.lang.AFn const__26 -> const__26
+    clojure.lang.AFn const__27 -> const__27
+    clojure.lang.Keyword const__28 -> const__28
+    clojure.lang.Var const__29 -> const__29
+    clojure.lang.AFn const__30 -> const__30
+    clojure.lang.Var const__31 -> const__31
+    clojure.lang.Keyword const__32 -> const__32
+    clojure.lang.Keyword const__33 -> const__33
+    java.lang.Object const__34 -> const__34
+    clojure.lang.Keyword const__35 -> const__35
+    java.lang.Object const__36 -> const__36
+    clojure.lang.Keyword const__37 -> const__37
+    java.lang.Object const__38 -> const__38
+    clojure.lang.Keyword const__39 -> const__39
+    clojure.lang.AFn const__40 -> const__40
+    clojure.lang.Var const__41 -> const__41
+    java.lang.Object const__42 -> const__42
+    java.lang.Object const__43 -> const__43
+    clojure.lang.AFn const__44 -> const__44
+    clojure.lang.Var const__45 -> const__45
+    java.lang.Object const__46 -> const__46
+    java.lang.Object const__47 -> const__47
+    clojure.lang.AFn const__48 -> const__48
+    clojure.lang.Var const__49 -> const__49
+    java.lang.Object const__50 -> const__50
+    java.lang.Object const__51 -> const__51
+    clojure.lang.AFn const__52 -> const__52
+    clojure.lang.Var const__53 -> const__53
+    java.lang.Object const__54 -> const__54
+    java.lang.Object const__55 -> const__55
+    clojure.lang.AFn const__56 -> const__56
+    clojure.lang.Var const__57 -> const__57
+    java.lang.Object const__58 -> const__58
+    java.lang.Object const__59 -> const__59
+    java.lang.Object const__60 -> const__60
+    java.lang.Object const__61 -> const__61
+    java.lang.Object const__62 -> const__62
+    java.lang.Object const__63 -> const__63
+    java.lang.Object const__64 -> const__64
+    java.lang.Object const__65 -> const__65
+    java.lang.Object const__66 -> const__66
+    clojure.lang.Var const__67 -> const__67
+    clojure.lang.ISeq const__68 -> const__68
+    clojure.lang.AFn const__69 -> const__69
+    java.lang.Object const__70 -> const__70
+    clojure.lang.AFn const__71 -> const__71
+    clojure.lang.AFn const__72 -> const__72
+    clojure.lang.Keyword const__73 -> const__73
+    clojure.lang.AFn const__74 -> const__74
+    clojure.lang.AFn const__75 -> const__75
+    clojure.lang.AFn const__76 -> const__76
+    clojure.lang.AFn const__77 -> const__77
+    java.lang.Object const__78 -> const__78
+    java.lang.Object const__79 -> const__79
+    clojure.lang.Var const__80 -> const__80
+    java.lang.Object const__81 -> const__81
+    java.lang.Object const__82 -> const__82
+    clojure.lang.AFn const__83 -> const__83
+    clojure.lang.Var const__84 -> const__84
+    java.lang.Object const__85 -> const__85
+    java.lang.Object const__86 -> const__86
+    clojure.lang.AFn const__87 -> const__87
+    clojure.lang.Var const__88 -> const__88
+    java.lang.Object const__89 -> const__89
+    java.lang.Object const__90 -> const__90
+    clojure.lang.AFn const__91 -> const__91
+    clojure.lang.Var const__92 -> const__92
+    java.lang.Object const__93 -> const__93
+    java.lang.Object const__94 -> const__94
+    clojure.lang.AFn const__95 -> const__95
+    clojure.lang.Var const__96 -> const__96
+    java.lang.Object const__97 -> const__97
+    java.lang.Object const__98 -> const__98
+    clojure.lang.AFn const__99 -> const__99
+    clojure.lang.Var const__100 -> const__100
+    java.lang.Object const__101 -> const__101
+    java.lang.Object const__102 -> const__102
+    clojure.lang.AFn const__103 -> const__103
+    clojure.lang.Var const__104 -> const__104
+    clojure.lang.ISeq const__105 -> const__105
+    clojure.lang.AFn const__106 -> const__106
+    java.lang.Object const__107 -> const__107
+    clojure.lang.AFn const__108 -> const__108
+    clojure.lang.AFn const__109 -> const__109
+    clojure.lang.Keyword const__110 -> const__110
+    clojure.lang.AFn const__111 -> const__111
+    clojure.lang.AFn const__112 -> const__112
+    clojure.lang.AFn const__113 -> const__113
+    clojure.lang.AFn const__114 -> const__114
+    java.lang.Object const__115 -> const__115
+    clojure.lang.Var const__116 -> const__116
+    java.lang.Object const__117 -> const__117
+    java.lang.Object const__118 -> const__118
+    clojure.lang.AFn const__119 -> const__119
+    clojure.lang.Var const__120 -> const__120
+    java.lang.Object const__121 -> const__121
+    clojure.lang.AFn const__122 -> const__122
+    clojure.lang.Var const__123 -> const__123
+    java.lang.Object const__124 -> const__124
+    java.lang.Object const__125 -> const__125
+    clojure.lang.AFn const__126 -> const__126
+    void load() -> load
+    void __init0() -> __init0
+    void __init1() -> __init1
