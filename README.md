@@ -11,6 +11,8 @@ Requirement
 
 3. Install clojure
 
+4. Install proguard
+
 Compile
 -------
 
